@@ -10,7 +10,7 @@ Copyright (C) 2022-2023, Wiesław Šoltés. All rights reserved.
              xmlns:vmc="clr-namespace:ChatGPT.ViewModels.Chat;assembly=ChatGPT"
              xmlns:objectModel="clr-namespace:System.Collections.ObjectModel;assembly=System.ObjectModel"
              xmlns:controls="clr-namespace:ChatGPT.Controls"
-             FontFamily="avares://Avalonia.Themes.Fluent/Assets#Inter"
+             FontFamily="avares://Avalonia.Fonts.Inter/Assets#Inter"
              mc:Ignorable="d" d:DesignWidth="400" d:DesignHeight="740"
              x:Class="ChatGPT.Views.MainView"
              x:CompileBindings="True" x:DataType="vm:MainViewModel">

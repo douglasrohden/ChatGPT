@@ -33,8 +33,8 @@ Copyright (C) 2022-2023, Wiesław Šoltés. All rights reserved.
       <SelectingItemsControl.ItemsPanel>
         <ItemsPanelTemplate>
           <!-- TODO: -->
-          <!-- <VirtualizingStackPanel /> -->
-          <StackPanel />
+          <VirtualizingStackPanel />
+          <!--<StackPanel />-->
         </ItemsPanelTemplate>
       </SelectingItemsControl.ItemsPanel>
       <SelectingItemsControl.DataTemplates>
